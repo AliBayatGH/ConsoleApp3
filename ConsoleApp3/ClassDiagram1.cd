@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="HIT.Hastim.IDR.Domain.Parties.Party">
+    <Position X="19.75" Y="1" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAMwAAIAAAAAACgACAAQECAAggAgA=</HashCode>
+      <FileName>Parties\Party.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIT.Hastim.IDR.Domain.Customers.Customer">
+    <Position X="5.5" Y="6.5" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customers\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIT.Hastim.IDR.Domain.Parties.PartyRole">
+    <Position X="8.5" Y="1" Width="10" />
+    <TypeIdentifier>
+      <HashCode>BAECAAAACAEAACAACAAAAAAEQAAAAABAAQCABAAAgAA=</HashCode>
+      <FileName>PartyRoles\PartyRole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIT.Hastim.IDR.Domain.Vendors.Vendor">
+    <Position X="13.75" Y="6.5" Width="8" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Vendors\Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIT.Hastim.IDR.Domain.Vendors.Store">
+    <Position X="27.75" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Vendors\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIT.Hastim.IDR.Domain.PartyRoles.BankAccount">
+    <Position X="27.75" Y="3.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAIAAABAAAAAAA=</HashCode>
+      <FileName>PartyRoles\BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
